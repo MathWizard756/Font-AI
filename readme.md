@@ -166,4 +166,5 @@ imagenet.py --model=$NET/resnet18.onnx --input_blob=input_0 --output_blob=output
 
 
 
-[View a video explanation here](video link)
+*Here is a video I created covering this project*:
+ https://youtu.be/LiiuypV8A9E
