@@ -1,4 +1,4 @@
-# Font AI
+# Character-detecting AI
 
  An AI created to recognise characters of different fonts> 
 
